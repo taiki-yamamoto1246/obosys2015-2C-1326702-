@@ -1,0 +1,6 @@
+$ gpio -g write 17 1　　//　1　(high)を出力
+$ gpio -g write 17 0　　//　0　(low)を出力
+$ gpio -g write 17 1　　//　1　(high)を出力
+$ gpio -g write 17 0　　//　0　(low)を出力
+・・・
+・・
